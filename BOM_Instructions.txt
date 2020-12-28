@@ -2,10 +2,10 @@ Arduino UNO
 GRBL Shield w. 3 x drivers
 Braided cable sleeving
 Double adhesive tape for cable-tie mount
-3 x Alu flex coupler 5x5 mm
-16mm e-stop button
+3 x Alu flex coupler 5x5 mm shafts and outer measurements: 19x25mm
+E-stop button for 16mm panel cut-out. 23.5mm diameter button
 6 x F5-12M bearing
-3 x 7 mm push button switches for endstop
+3 x 7 mm push button switches for endstop SPST PBS-110
 12 x M3x6 for motor mount
 6 x M4x35 for mounting brackets
 6 x M4 SL nut
