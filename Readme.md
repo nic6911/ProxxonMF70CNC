@@ -4,3 +4,7 @@ Electronics embedded in Z-axis column !
 
 ## Purpose
 Fun
+
+## License
+Creative Commons - Attribution - Share Alikelicense
+https://creativecommons.org/licenses/by-sa/3.0/
