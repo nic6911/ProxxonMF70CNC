@@ -1,0 +1,26 @@
+Arduino UNO
+GRBL Shield w. 3 x drivers
+Braided cable sleeving
+Double adhesive tape for cable-tie mount
+3 x Alu flex coupler 5x5 mm
+16mm e-stop button
+6 x F5-12M bearing
+3 x 7 mm push button switches for endstop
+12 x M3x6 for motor mount
+6 x M4x35 for mounting brackets
+6 x M4 SL nut
+3 x small screws for mounting Arduino
+Wires and connectors as needed for switches and motors
+
+
+Print:
+6 x cable_tie_mount
+3 x spacer_xyz
+1 of each of the remaining files
+
+Software:
+GRBL and OpenBuilds Control software
+
+HowTo:
+Print the parts
+Disassemble the x, y and z-acis of the proxxon
