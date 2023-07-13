@@ -4,6 +4,10 @@ Electronics embedded in Z-axis column !
 
 ![Machine](/Pictures/20200807_135809379_iOS.jpg)
 
+If you like then please
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://bmc.link/nic6911w)
+
 ## BOM
 Arduino UNO  
 GRBL Shield w. 3 x drivers  
