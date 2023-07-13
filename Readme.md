@@ -44,7 +44,16 @@ A grooving in the 3D printed parts for the x and y-axes takes the metal plate fr
 Mount motors and end-switches on the x and y-axes motor mounts  
 When a bearing has been placed in both ends of the x and y-axes the the motor mounts can be added to the x and y-axes (remember spacer and flex coupling)  
 Make sure there is a little tension on the flex-coupler up against the spacer that pushes on the F5-12M bearing  
+  
+This work is licensed under a
+[Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
 
-## License
-Creative Commons - Attribution - Share Alike license
-https://creativecommons.org/licenses/by-sa/3.0/
+[![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
+
+[cc-by-sa]: http://creativecommons.org/licenses/by-sa/4.0/
+[cc-by-sa-image]: https://licensebuttons.net/l/by-sa/4.0/88x31.png
+[cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg
+
+Find more of my work here:  
+https://youtube.com/user/wan46696  
+https://www.instructables.com/member/nicengineering/
